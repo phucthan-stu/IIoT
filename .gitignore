@@ -1,0 +1,17 @@
+.venv/
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+project.json
+*.key
+*.pem
+*token*.txt
+node_modules/
+evidence/
+runs/
+state/
+*.zip

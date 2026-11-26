@@ -1,0 +1,1 @@
+Mã nguồn do Nguyễn Khả Dương cung cấp; sao chép nguyên nội dung, không sửa. Các bộ bọc kiểm thử trong 03_Bang_chung là phần kiểm thử tích hợp bổ sung, không phải mã chức năng của Dương. requirements.txt ghim ba dependency trực tiếp; không phải lockfile đầy đủ.

@@ -1,0 +1,9 @@
+{
+  "demo.py": "3e37405fd9e69cda6e07075a86f76614f136dd7adfce0001e904544fa6f3a304",
+  "motor_c/run_c.py": "7c76b9a0ac43f32cb77ada58b7c896280e327a1eb8fca27f5849e799e3059bbe",
+  "motor_c/telemetry.py": "e9f52e502447047dfcf549d170b339fc9c5ae6d9a3308666e85b89af3b365186",
+  "motor_c/freshness.py": "0bf715831ccc015099d943559ab737543e97f4f8640415dd5f24f4007306a4b4",
+  "motor_c/adapter_c.py": "87bb4a68fc9c86eafbce625c057aea60e5b9fdbf7ee2d3ef0899aa203fedab58",
+  "motor_c/basyx_c.py": "bb7f2e19a938da6d4a68031d3e3bcfdc2b198dcb1e2e1ab0e1cc94dc7276b186",
+  "motor_c/mqtt_local_check.py": "21797ff72455f8ca1675786e5d1ff84eedf929b8371f44859457779e010ec24e"
+}
